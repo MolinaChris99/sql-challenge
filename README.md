@@ -1,11 +1,11 @@
-###Module 9 sql-challenge###
+### Module 9 sql-challenge
 -------------------------
 
 As a new data engineer at Pewlett Hackard, my first task was to conduct a research project on the company's employees during the 1980s and 90s. I was provided with 6 CSV files for this task, which I analyzed by importing them into PgAdmin and running SQL queries.
 
 -------------------------
 
-###STEPS FOR COMPLETIONS###
+### STEPS FOR COMPLETIONS
 
 * Data Modeling
 An Entity Relationship Diagram (ERD) was created to define the relationships necessary for table creation. The employees table was designated as the primary reference key, enabling the linkage of all other tables.
