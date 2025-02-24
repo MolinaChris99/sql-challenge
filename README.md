@@ -13,10 +13,10 @@ As a new data engineer at Pewlett Hackard, my first task was to conduct a resear
 ## Data Engineering
 * PostgreSQL table schemas were designed, and the corresponding CSV files were imported into the appropriate tables.
 
-* Data Analysis
-SQL queries were developed to address specific business questions:
+## Data Analysis
+* SQL queries were developed to address specific business questions:
 
-- A list of all employees in specific departments was generated.
-- Managers were identified along with their corresponding departments.
-- Frequency counts of last names were calculated to reveal naming patterns within the company.
-- Employees were filtered based on custom criteria such as hire dates and names.
+   - A list of all employees in specific departments was generated.
+   - Managers were identified along with their corresponding departments.
+   - Frequency counts of last names were calculated to reveal naming patterns within the company.
+   - Employees were filtered based on custom criteria such as hire dates and names.
