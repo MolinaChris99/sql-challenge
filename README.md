@@ -10,8 +10,8 @@ As a new data engineer at Pewlett Hackard, my first task was to conduct a resear
 ## Data Modeling
 * An Entity Relationship Diagram (ERD) was created to define the relationships necessary for table creation. The employees table was designated as the primary reference key, enabling the linkage of all other tables.
 
-* Data Engineering
-PostgreSQL table schemas were designed, and the corresponding CSV files were imported into the appropriate tables.
+## Data Engineering
+* PostgreSQL table schemas were designed, and the corresponding CSV files were imported into the appropriate tables.
 
 * Data Analysis
 SQL queries were developed to address specific business questions:
